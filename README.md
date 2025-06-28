@@ -1,4 +1,5 @@
 ![Project Icon](https://img.icons8.com/color/96/000000/artificial-intelligence.png)
+![image](https://github.com/user-attachments/assets/23c5f3ac-52a1-4c7c-9b1e-91c34dfee09b)
 
 # Vertex AI Reasoning Agent Demo
 
